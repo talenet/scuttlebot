@@ -66,7 +66,7 @@
     "ssb-private": "^0.1.4",
     "ssb-query": "^1.0.0",
     "ssb-ref": "^2.9.1",
-    "ssb-ws": "^2.0.0",
+    "ssb-ws": "https://ipfs.io/ipfs/QmZHcpL3BYqzKZKfwGf77ZMv7QkLqCQEzwR2wRftXKvH3K/ssb-ws-muxrpc7.tar.gz",
     "statistics": "^3.0.0",
     "stream-to-pull-stream": "^1.6.10",
     "zerr": "^1.0.0"
